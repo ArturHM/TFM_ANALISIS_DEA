@@ -59,7 +59,7 @@ La integración del paradigma del Bien Común en la gestión pública regional *
 ---
 
 ## 👤 Autor
-Este trabajo fue desarrollado como parte de la investigación de **Maestría en [tu universidad]**, bajo la dirección académica correspondiente.  
+Este trabajo fue desarrollado como parte de la investigación del **Master Universitario en Economía por la Universidad Complutence de Madrid-España**, bajo la dirección académica correspondiente.  
 
 ---
 
